@@ -1,1 +1,1 @@
-# comic-crafter-ai
+# Comic-Crafter-Ai
