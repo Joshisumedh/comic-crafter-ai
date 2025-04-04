@@ -51,7 +51,7 @@ The application will launch a **Gradio web UI**, where you can enter story promp
 After inputting prompts, the final comic layout will look like this:
 
 ![Sample Comic](comic_page.png)
-
+![Sample Comic](comic_page_1.png)
 ---
 
 ## 📌 Future Improvements
